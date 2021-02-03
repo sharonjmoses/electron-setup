@@ -1,0 +1,13 @@
+{
+  "name": "electronsetup",
+  "version": "1.0.0",
+  "description": "chatapp",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^11.2.2"
+  }
+}
